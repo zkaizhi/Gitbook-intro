@@ -8,6 +8,8 @@ Use this area to play with the editor and get to grips with some of the content 
 
 ## 1. Block level
 
+
+
 ## # Heading 1
 
 ### ## Heading 2
@@ -37,7 +39,13 @@ paragraph
 
 {% hint style="info" %}
 Hint
+
+Watch out
 {% endhint %}
+
+
+
+
 
 {% hint style="warning" %}
 warning
